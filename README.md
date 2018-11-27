@@ -1,6 +1,6 @@
 # Graph-Plotter
 This tool allows you to plot graphs
-I created classes for performing array operations and plotting functions. It can graph a function represented by an instance of a class that implements the Plottable2D interface
+I created classes for performing array operations and plotting functions. It can graph a function represented by an instance of a class that implements the Plottable2D interface.
 
 You may choose the default size of the figure and assume that the window will not be resized. You may also choose the number of points at which the function is evaluated in order to generate a smooth-looking plot.
 
